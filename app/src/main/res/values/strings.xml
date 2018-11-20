@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LayoutsApp - Wellcome</string>
+    <string name="imgLayout_Description">Layout Image</string>
+    <string name="Layout_Intro">Wellcome</string>
+    <string name="btnSelect_Layout">Select Layout</string>
+    <string name="txtSelect_Layout">Please Select a Layout</string>
+    <string name="txtLinear_Layout">Linear Vertical</string>
+    <string name="txtRelative_Layout">Relative</string>
+    <string name="txtList_Layout">List View</string>
+    <string name="txtGrid_Layout">Grid View</string>
+    <string name="txtTableRow_Layout">Table Row</string>
+    <string name="txtLinear_Header">Linear Layout</string>
+    <string name="edtUserName">User Name</string>
+    <string name="edtPasswrd">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtRegister_email">Register em@il</string>
+    <string name="txtRelative_Header">Relative Layout</string>
+    <string name="btnRegister">Register</string>
+    <string name="btn_Unregister">Unregister</string>
+    <string name="txtGrid_Header">Grid Layout</string>
+    <string name="txtLinear_Layout_horizontal">Linear Horizontal</string>
+    <string name="txtFrame_Layout">"Frame "</string>
+    <string name="btnShow_Notification">Show Notification</string>
+</resources>
